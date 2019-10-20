@@ -24,3 +24,19 @@ we are going to start building the most basic of User Registration systems in No
 * [ ] How To Authenticate Users
 * [ ] Implementing JSON Web Tokens
 * [ ] Setting Response Headers
+
+# Mongoose Crud Tutorial
+* [ ] Connecting to MongoDB with Mongoose
+* [ ] Mongodb Schemas
+* [ ] Models In Mongodb
+* [ ] Saving(Create) a Document In MongoDB
+* [ ] Querying(Read) Documents in MongoDB
+* [ ] Passing a filter to find()
+* [ ] Adding a sort() to the query
+* [ ] Selecting only certain properties
+* [ ] Comparison Query Operators
+* [ ] Logical Query Operators
+* [ ] Updating(Update) in MongoDB
+* [ ] Updating Documents using Query First
+* [ ] Updating a Document using Update First
+* [ ] Remove(Delete) Documents in MongoDB
